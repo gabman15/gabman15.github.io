@@ -1,1 +1,1 @@
-alarm("foo");
+alert("foo");
